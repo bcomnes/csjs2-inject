@@ -1,5 +1,5 @@
 {
-  "name": "csjs-inject",
+  "name": "csjs2-inject",
   "version": "1.0.1",
   "description": "CSJS with auto-injection of styles",
   "author": "Ryan Tsao <ryan.j.tsao@gmail.com>",
@@ -7,12 +7,12 @@
   "keywords": [
     "csjs"
   ],
-  "homepage": "https://github.com/rtsao/csjs-inject",
-  "repository": "git@github.com:rtsao/csjs-inject.git",
-  "bugs": "https://github.com/rtsao/csjs-inject/issues",
+  "homepage": "https://github.com/bcomnes/csjs2-inject",
+  "repository": "git@github.com:bcomnes/csjs2-inject.git",
+  "bugs": "https://github.com/bcomnes/csjs2-inject/issues",
   "dependencies": {
-    "csjs": "^1.0.0",
-    "insert-css": "^0.2.0"
+    "csjs2": "^2.0.0",
+    "insert-css2": "^3.0.0"
   },
   "engines": {
     "node": ">=4.0.0"

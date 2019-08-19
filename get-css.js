@@ -1,3 +1,3 @@
 'use strict';
 
-module.exports = require('csjs/get-css');
+module.exports = require('csjs2/get-css');
